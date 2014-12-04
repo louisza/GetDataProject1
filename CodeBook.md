@@ -116,4 +116,7 @@ I first merged the training and the test sets to create one data set. Then I ext
 mean(): or
 std():
 
-I added the descriptive activity names column to this data set and labelled the descriptive activity names according to 'activity_labels.txt'. I added the subject column to this data set and calcaluted the average of each variable for each activity and each subject. I stored the means in a new tidy data set. Finally, I wrote this tidy data set to a text file.
+1.) I added the descriptive activity names column to this data set and labelled the descriptive activity names according to 'activity_labels.txt'. 
+2.) I added the subject column to this data set and calcaluted the average of each variable for each activity and each subject.
+3.) I stored the means in a new tidy data set.
+4,) Finally, I wrote this tidy data set to a text file.
